@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtuální prostředí
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/

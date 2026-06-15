@@ -1,0 +1,7 @@
+# Knihovny použité v řešení
+numpy>=1.26
+sympy>=1.12
+matplotlib>=3.8
+
+# Pro spuštění .ipynb notebooku (volitelné, pro .py není potřeba)
+jupyter>=1.0
